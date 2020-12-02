@@ -4,3 +4,6 @@ src/*
 spec/year*
 Gemfile.lock
 .env
+
+vendor/
+/.bundle/
