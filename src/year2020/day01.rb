@@ -1,5 +1,3 @@
-require 'pry'
-
 module Year2020
   class Day01
     def part1(input)
